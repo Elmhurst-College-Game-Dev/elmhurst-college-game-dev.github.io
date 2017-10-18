@@ -1,2 +1,2 @@
 :: home page
-ruby	webpage.rb		mustache/webpage.mst	> out.html
+ruby	webpage.rb	 mustache/index_content.html	<mustache/webpage.mst	>index.html

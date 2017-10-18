@@ -36,7 +36,7 @@
         <h3 class="text-muted">Project name</h3>
       </div>
 
-	  {{main_content}}
+	  {{{main_content}}}
 	  
       <footer class="footer">
         <p>&copy; Company 2017</p>
