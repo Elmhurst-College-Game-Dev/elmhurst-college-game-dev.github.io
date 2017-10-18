@@ -10,7 +10,7 @@
     <title>{{page_title}}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="narrow-jumbotron.css" rel="stylesheet">
