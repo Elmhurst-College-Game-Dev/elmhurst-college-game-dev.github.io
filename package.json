@@ -1,0 +1,23 @@
+{
+  "name": "elmhurst-college-game-dev.github.io",
+  "version": "0.1.0",
+  "description": "Website for game developers society",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elmhurst-College-Game-Dev/elmhurst-college-game-dev.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elmhurst-College-Game-Dev/elmhurst-college-game-dev.github.io/issues"
+  },
+  "homepage": "https://github.com/Elmhurst-College-Game-Dev/elmhurst-college-game-dev.github.io#readme",
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "popper.js": "^1.12.5"
+  }
+}
